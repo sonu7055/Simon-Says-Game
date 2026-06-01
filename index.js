@@ -81,12 +81,3 @@ function reset(){
   gameSeq=[];
   level=0;
 }
-
-
-
-
-
-
-
-
-
